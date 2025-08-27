@@ -103,7 +103,7 @@ const WhyChoose = () => {
 
             <div className="space-y-3">
               <div className="bg-orange-100 w-16 h-16 rounded-full flex items-center justify-center mx-auto">
-                 <a href="tel:0200 907934" className="hover:text-black/70">
+                 <a href="tel:0756 016850" className="hover:text-black/70">
                   
                
                 <Phone className="w-8 h-8 text-orange-600" />
@@ -114,7 +114,7 @@ const WhyChoose = () => {
             </div>
             <div className="space-y-3">
               <div className="bg-green-100 w-16 h-16 rounded-full flex items-center justify-center mx-auto">
-                <a href="mailto:info@brightstars.ac.ug" className="hover:text-black/70">
+                <a href="mailto:info@venturesearlylearningcentre.ac.ug" className="hover:text-black/70">
                      
                 <Mail className="w-8 h-8 text-green-600" />
                 </a>

@@ -225,19 +225,19 @@ const Admission = () => {
           <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-6">
             <div className="text-center">
               <div className="bg-red-100 w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-4">
-                 <a href="tel:0200 907934" className="hover:text-black/70">
+                 <a href="tel:0756 016850" className="hover:text-black/70">
                 <Phone className="w-8 h-8 text-red-600" /></a>
               </div>
               <h4 className="font-semibold text-gray-900 mb-2">Phone</h4>
-              <p className="text-gray-600">0200 907934</p>
+              <p className="text-gray-600">0756 016 850</p>
             </div>
             <div className="text-center">
               <div className="bg-orange-100 w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-4">
-                <a href="mailto:info@brightstars.ac.ug" className="hover:text-black/70">
+                <a href="mailto:info@venturesearlylearningcentre.ac.ug" className="hover:text-black/70">
                 <Mail className="w-8 h-8 text-orange-600" /></a>
               </div>
               <h4 className="font-semibold text-gray-900 mb-2">Email</h4>
-              <p className="text-gray-600">info@brightstars.ac.ug</p>
+              <p className="text-gray-600">info@venturesearlylearningcentre.ac.ug</p>
             </div>
             <div className="text-center">
               <div className="bg-green-100 w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-4">

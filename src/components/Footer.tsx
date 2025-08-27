@@ -107,7 +107,7 @@ const Footer = () => {
           </p>
             <p className="flex items-center gap-2 text-gray-300">
               <FaPhoneAlt size={22} />
-               <a href="tel:0200 907934" className="hover:text-white text-gray-300">
+               <a href="tel:0756 016850" className="hover:text-white text-gray-300">
                    0756 016850
                </a>
            </p>
@@ -115,7 +115,7 @@ const Footer = () => {
                   {/* Email */}
                <p className="flex items-center gap-2 text-gray-300">
                  <FaEnvelope size={22} />
-                   <a href="mailto:info@brightstars.ac.ug" className="hover:text-white text-gray-300">
+                   <a href="mailto:info@venturesearlylearningcentre.ac.ug" className="hover:text-white text-gray-300">
                      info@venturesearlylearningcentre.ac.ug
                     </a>
                  </p>
